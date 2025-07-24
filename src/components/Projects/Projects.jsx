@@ -5,7 +5,7 @@ const projects = [
     title: "Contact Manager",
     description:
       "Spring Boot + MySQL + Tailwind project to manage contacts with auth and birthday reminders. 📍Note: This project is still under development and not yet hosted on GitHub. ",
-    image: "public/assets/Project Image/ContactManager/image.png",
+    image: "assets/Project Image/ContactManager/image.png",
     link: "Private",
     tech: [
       "Spring Boot",
@@ -25,7 +25,7 @@ const projects = [
     title: "Weather App",
     description:
       "Stay updated with live weather forecasts using this sleek and easy-to-use weather app. Just enter your city and get instant weather details.",
-    image: "public/assets/Project Image/Climate/climatesc.JPG",
+    image: "assets/Project Image/Climate/climatesc.JPG",
     link: "https://github.com/DipakKumarSahu/Weather-Web-App/tree/main",
     tech: [
       "HTML",
@@ -42,7 +42,7 @@ const projects = [
     title: "FinTrust Bank",
     description:
       "FinTrust Bank is a secure and user-friendly banking management system. It allows users to manage accounts, transfer funds, and track transactions with ease.",
-    image: "public/assets/Project Image/Bank/home1.JPG",
+    image: "assets/Project Image/Bank/home1.JPG",
     link: "https://github.com/DipakKumarSahu/BankManagement",
     tech: [
       "Java",
@@ -60,7 +60,7 @@ const projects = [
     title: "Electronic Shop",
     description:
       "A modern e-commerce app for gadgets with secure backend, real-time product updates and Stripe payment.",
-    image: "public/assets/Project Image/Electronic/paymentgateway.JPG",
+    image: "assets/Project Image/Electronic/paymentgateway.JPG",
     link: "https://github.com/DipakKumarSahu/Electronic-Shop",
     tech: ["Spring Boot", "JavaScript", "Stripe API", "HTML", "CSS"],
   },
