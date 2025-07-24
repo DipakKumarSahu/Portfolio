@@ -1,7 +1,7 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
-import Tilt from 'react-parallax-tilt';
-import profileImage from '../../assets/passphoto.jpeg'
+import Tilt from "react-parallax-tilt";
+import profileImage from "../../assets/passphoto.jpeg";
 
 const About = () => {
   return (
@@ -46,7 +46,7 @@ const About = () => {
 
           {/* Resume Button  */}
           <a
-            href="#"
+            href="https://docs.google.com/document/d/1jWZV10V1Mgef5_O9l1BONGkcelY3oVlU/edit?usp=drive_link&ouid=103694787736400739667&rtpof=true&sd=true"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105 "
