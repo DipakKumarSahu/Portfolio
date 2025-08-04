@@ -1,32 +1,32 @@
 import React from "react";
 
 const projects = [
-  {
-    title: "Contact Manager",
-    description:
-      "Spring Boot + MySQL + Tailwind project to manage contacts with auth and birthday reminders. 📍Note: This project is still under development and not yet hosted on GitHub. ",
-    image: "assets/Project Image/ContactManager/image.png",
-    link: "Private",
-    tech: [
-      "Spring Boot",
-      "JPA",
-      "MySQL",
-      "Tailwind CSS",
-      "JavaScript",
-      "Thymeleaf",
-      "HTML",
-      "Figma",
-      "OAuth2",
-      "Cloudinary",
-      "Mailtrap",
-    ],
-  },
+  // {
+  //   title: "Contact Manager",
+  //   description:
+  //     "Spring Boot + MySQL + Tailwind project to manage contacts with auth and birthday reminders. 📍Note: This project is still under development and not yet hosted on GitHub. ",
+  //   image: "assets/Project Image/ContactManager/image.png",
+  //   link: "Private",
+  //   tech: [
+  //     "Spring Boot",
+  //     "JPA",
+  //     "MySQL",
+  //     "Tailwind CSS",
+  //     "JavaScript",
+  //     "Thymeleaf",
+  //     "HTML",
+  //     "Figma",
+  //     "OAuth2",
+  //     "Cloudinary",
+  //     "Mailtrap",
+  //   ],
+  // },
   {
     title: "Weather App",
     description:
       "Stay updated with live weather forecasts using this sleek and easy-to-use weather app. Just enter your city and get instant weather details.",
     image: "assets/Project Image/Climate/climatesc.JPG",
-    link: "https://github.com/DipakKumarSahu/Weather-Web-App/tree/main",
+    link: "https://github.com/DipakKumarSahu/Know-Your-Climate",
     tech: [
       "HTML",
       "CSS",
