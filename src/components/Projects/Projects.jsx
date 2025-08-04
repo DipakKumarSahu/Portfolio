@@ -1,26 +1,6 @@
 import React from "react";
 
 const projects = [
-  // {
-  //   title: "Contact Manager",
-  //   description:
-  //     "Spring Boot + MySQL + Tailwind project to manage contacts with auth and birthday reminders. 📍Note: This project is still under development and not yet hosted on GitHub. ",
-  //   image: "assets/Project Image/ContactManager/image.png",
-  //   link: "Private",
-  //   tech: [
-  //     "Spring Boot",
-  //     "JPA",
-  //     "MySQL",
-  //     "Tailwind CSS",
-  //     "JavaScript",
-  //     "Thymeleaf",
-  //     "HTML",
-  //     "Figma",
-  //     "OAuth2",
-  //     "Cloudinary",
-  //     "Mailtrap",
-  //   ],
-  // },
   {
     title: "Weather App",
     description:
